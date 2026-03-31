@@ -1,0 +1,92 @@
+PROJECT REPORT
+Digital Literacy Project
+
+Name: Devashish Rege
+Registration Number: 25BCE10799
+Course: B.Tech
+Course Code: [Enter Course Code]
+Branch: Computer Science / Computer Engineering
+Date: 31 March 2026
+
+1. Introduction
+Digital literacy refers to the ability to effectively use digital tools, technologies, and online platforms for communication, learning, content creation, and responsible participation in the digital world. It includes understanding digital safety, information evaluation, online collaboration, and practical use of software tools. This project report documents the activities completed as part of the digital literacy assignment and highlights the learning outcomes from each task.
+
+2. Task 1
+PRESENTATION - made a digital infographic on digital literacy 
+
+Description:
+This task focused on understanding and applying digital tools for basic academic or project-related work. The objective was to develop familiarity with digital platforms and improve practical usage of software.
+
+Work Done:
+- Completed the assigned activity using appropriate digital tools.
+- Organized files and maintained proper digital documentation.
+- Applied formatting and presentation standards where required.
+
+Outcome:
+This task improved basic digital handling skills and confidence in using software tools effectively.
+
+3. Task 2
+PORTFOLIO - Made my portfolio of Kaggle, GitHub and linkedin 
+Description:
+This task involved creating, editing, or presenting content digitally using suitable applications.
+
+Work Done:
+- Prepared required material using digital platforms.
+- Applied editing, formatting, and structure.
+- Ensured clarity and readability of content.
+
+Outcome:
+This task strengthened digital content creation and presentation ability.
+
+4. Task 3
+PLATFORM - used platforms and made google form spreading awareness 
+Description:
+This task required practical implementation of digital methods for problem solving or documentation.
+
+Work Done:
+- Used relevant software for completing the task.
+- Managed content in a structured manner.
+- Followed submission guidelines.
+
+Outcome:
+This task enhanced understanding of practical digital workflows.
+
+5. Task 4
+EMAIL ETIQUETTES 
+
+Description:
+This task focused on responsible and effective use of digital resources.
+
+Work Done:
+- Collected required information from reliable sources.
+- Processed and organized digital data.
+- Applied correct file handling methods.
+
+Outcome:
+This task improved digital resource management and information handling.
+
+6. Task 5
+CYBERCRIMES - made a case study on cybercrimes 
+
+Description:
+This task involved final compilation, presentation, or reporting of digital work completed during the project.
+
+Work Done:
+- Consolidated all work into final format.
+- Reviewed content for correctness.
+- Prepared final submission files.
+
+Outcome:
+This task developed reporting and final presentation skills.
+
+7. Conclusion
+The digital literacy project helped in developing practical digital skills required for academic and professional work. Through the five tasks, knowledge of digital tools, file management, content preparation, and responsible use of digital resources was strengthened. The project also improved confidence in using technology efficiently for structured work.
+
+8. References
+- Canva (for design and presentation support)
+- Google Docs / Microsoft Word (for documentation)
+- GitHub (if used for project storage or documentation)
+- Internet sources used for academic reference
+- Course material and classroom instructions
+
+
