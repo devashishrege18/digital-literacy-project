@@ -3,8 +3,8 @@ Digital Literacy Project
 
 Name: Devashish Rege
 Registration Number: 25BCE10799
-Course: B.Tech
-Course Code: [Enter Course Code]
+Course: B.Tech CSE 
+Course Code: CSE0001
 Branch: Computer Science / Computer Engineering
 Date: 31 March 2026
 
