@@ -1,0 +1,11 @@
+UPI / Online Payment Fraud Case Study
+
+UPI fraud is one of the most common cybercrimes affecting students and smartphone users in India. It usually happens when a fraudster tricks a person into sharing sensitive payment information or approving a fraudulent payment request.
+
+A common scenario begins when a student receives a phone call or message claiming that money has been sent incorrectly or that a refund is pending. The fraudster then sends a payment request through a UPI application and asks the victim to enter their UPI PIN to receive money. Many people do not realize that entering the PIN actually authorizes money to be sent from their account.
+
+In another case, fake QR codes are shared through messaging apps. When scanned, the victim unknowingly transfers money instead of receiving it. Fraudsters may also create fake customer care numbers or fake payment app support accounts to gain trust.
+
+Students, online shoppers, and first-time digital payment users are often targeted because they may not fully understand how UPI verification works.
+
+The consequences include direct financial loss, stress, blocked bank accounts, and difficulty recovering stolen money if reporting is delayed. Such fraud cases have increased because digital payments are now widely used for daily transactions.
