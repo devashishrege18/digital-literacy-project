@@ -2,7 +2,7 @@
 
 ## Student Details
 
-**Name:** Devashish
+**Name:** Devashish Rege 
 **Registration Number:** 25BCE10799
 **Branch:** B.Tech CSE
 **University:** VIT Bhopal University
