@@ -1,10 +1,9 @@
 # digital-literacy-project
-# Digital Literacy Project
 
 ## Student Details
 
 **Name:** Devashish
-**Registration Number:** [Your Reg No.]
+**Registration Number:** 25BCE10799
 **Branch:** B.Tech CSE
 **University:** VIT Bhopal University
 **Course Code:** CSE0001
