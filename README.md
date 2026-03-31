@@ -129,3 +129,5 @@ This project helped in developing practical digital literacy skills including di
 ## Submission Description
 
 This repository contains the complete Digital Literacy Project submission for CSE0001, including all five required tasks, screenshots, written reflections, and final report prepared according to the university assignment guidelines.
+
+## Google form link - https://docs.google.com/forms/d/e/1FAIpQLSfzAFdt1vgJYlwgR9Y7hETsdD_brQd4rYuBTjTMOHSZj7lvkw/viewform?usp=publish-editor
